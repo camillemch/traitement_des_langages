@@ -16,8 +16,8 @@ import org.antlr.runtime.tree.Tree;
 public class Main {
 
 	static String file_name = "pgcd";
-	static String root_niklaus = "/Users/camille/Documents/3A/TraitementDesLangages/KitBE_TdL/ProgrammesNiklaus/";
-	static String root_arm = "/Users/camille/Documents/3A/TraitementDesLangages/KitBE_TdL/ProgrammesARM/";
+	static String root_niklaus = "../../ProgrammesNiklaus/";
+	static String root_arm = "../../ProgrammesARM/";
 	static List<String> variables =  new ArrayList<String>();
 	static List<String> var_delete =  new ArrayList<String>();
 	static int i = 0;
